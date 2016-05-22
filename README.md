@@ -1,3 +1,7 @@
+Parse.com SDK Update
+=========================
+Update Parse.com SDK : 1.13.0 for Android, 1.12.0 for iOS, 1.7.0 for wp8
+
 Phonegap Parse.com Plugin
 =========================
 
